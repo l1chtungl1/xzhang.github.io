@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Xiulin Zhang 张修麟
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Xiulin
+last_name: Zhang
 
 # Status emoji
 status:
@@ -20,27 +20,24 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Dept. of S&TS, Cornell University
+    url: https://sts.cornell.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: 'mailto:xz953@cornell.edu'
+    label: E-mail(Cornell)
+  - icon: at-symbol
+    url: 'mailto:xiulin.zhang@outlook.com'
+    label: E-mail(Outlook)
   - icon: brands/github
     url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
