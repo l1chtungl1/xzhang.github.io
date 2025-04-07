@@ -74,7 +74,7 @@ sections:
       view: article-grid
       columns: 1
   - block: collection
-    id: blog posts
+    id: news
     content:
       title: Recent Blog Posts
       subtitle: ''
