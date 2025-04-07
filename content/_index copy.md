@@ -74,9 +74,9 @@ sections:
       view: article-grid
       columns: 1
   - block: collection
-    id: blog posts
+    id: news
     content:
-      title: Recent Blog Posts
+      title: Recent News
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
