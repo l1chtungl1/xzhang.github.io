@@ -139,12 +139,14 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
+    percent: 100
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Japanese
+    percent: 60
+  - name: France
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -180,6 +182,6 @@ awards:
 
 ## About Me
 
-Hi! I am Xiūlín Zhāng (张修麟, pronounced like “Showleen Djang”), an incoming Ph.D. student at **Cornell University**’s **Department of Science & Technology Studies (S&TS)**. Devoted to the history and sociology of science and technology, I am currently working on the entangled history of musical tuning, metrology and state-building in modern China. I am interested in exploring more topics to do with post-colonial science studies and sound studies.
+Hi! I am Xiūlín Zhāng (张修麟, pronounced like “Showleen Djang”), an incoming Ph.D. student at **Cornell University**’s doctoral program in **Science & Technology Studies**. Devoted to the history and sociology of science and technology, I am currently working on the entangled history of musical tuning, metrology and state-building in modern China. I am interested in exploring more topics to do with post-colonial science studies and sound studies.
 
 Beyond my academic work, I am a rhythm guitarist passionate about Funk and Post-Punk music. My other interests include cycling, JRPG games (e.g., Guijan, Final Fantasy), and programming.
