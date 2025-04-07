@@ -182,8 +182,4 @@ awards:
 
 Hi! I am Xiūlín Zhāng (张修麟, pronounced like “Showleen Djang”), an incoming Ph.D. student at **Cornell University**’s **Department of Science & Technology Studies (S&TS)**. Devoted to the history and sociology of science and technology, I am currently working on the entangled history of musical tuning, metrology and state-building in modern China. I am interested in exploring more topics to do with post-colonial science studies and sound studies.
 
-I earned two Master’s degrees, respectively in **History of Science and Technology** and in **Science, Technology and Society**, through a joint program between **Tsinghua University** and **Institute of Science Tokyo**. Prior to this, I obtained a Bachelor’s degree in **Sociology**.
-
-My research primarily employs archival and ethnographic approaches. However, I also possess extensive experiences in quantitative/computational methods for the “science of science”, as well as analytic argumentation for the philosophy of science. I am open to transdisciplinary research with integrated methodologies.
-
 Beyond my academic work, I am a rhythm guitarist passionate about Funk and Post-Punk music. My other interests include cycling, JRPG games (e.g., Guijan, Final Fantasy), and programming.
